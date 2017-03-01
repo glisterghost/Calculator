@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Basic Calculator</string>
+    <string name="FirstValue">First Value</string>
+    <string name="SecondValue">Second Value</string>
+</resources>
